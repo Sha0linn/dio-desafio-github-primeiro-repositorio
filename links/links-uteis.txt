@@ -1,0 +1,7 @@
+Download git: https://git-scm.com/
+O git bash é um terminal para otimizar o uso do git.
+
+Download typora: https://typora.io/
+Typora é um software para escrever o markdown.
+
+Sintaxe básica markdown: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
